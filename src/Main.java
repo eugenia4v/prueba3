@@ -11,6 +11,8 @@ public class Main {
 		String var="texto";
 		
 		System.out.println("Probando GIT");
+		System.out.println("Probando GIT");
+		System.out.println("Probando GIT");
 
 	}
 
